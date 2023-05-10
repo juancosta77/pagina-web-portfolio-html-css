@@ -1,2 +1,2 @@
 # portfolio-alura
-Primeiro projeto desenvolvido com a Alura.
+Página web desenvolvida com HTML e CSS. 
